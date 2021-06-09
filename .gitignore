@@ -1,3 +1,6 @@
+*.iso
+isodir
+sysroot
 .idea/
 build/
 cmake-build-debug/
